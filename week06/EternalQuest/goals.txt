@@ -1,0 +1,4 @@
+200
+EternalGoal:marriage,marry in the temple at the age of 25,100
+SimpleGoal:read the sriptures,study first Nephi,100,False
+ChecklistGoal:workout everyday,do pushups,100,100,500,0
